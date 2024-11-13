@@ -72,4 +72,4 @@ app.listen(process.env.PORT || 3000, () => {
 })
 
 // export the app for vercel serverless functions
-module.exports = app;
+// module.exports = app;
